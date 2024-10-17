@@ -16,12 +16,10 @@ Bem-vindo ao repositório **Extenção**! Aqui você encontrará os códigos fei
 ## 📂 Estrutura do Projeto
 
 ```bash
-├── ED/                        # Pasta principal de Estruturas de Dados
+├── arena_1/                  # Conteúdos e arquivos relacionados à Arena 1
 │
-├── ICC/                       # Pasta principal de Introdução à Ciência da Computação
-│   ├── exercicios_do_livro/   # Exercícios baseados no livro
-│   ├── lista_3/               # Lista 3 de exercícios
-│   ├── provas/                # Provas realizadas durante a disciplina
-│   └── trabalhos/             # Trabalhos e projetos da disciplina
+├── arena_2/                  # Conteúdos e arquivos relacionados à Arena 2
 │
-└── README.md                  # Descrição do repositório e instruções              # Este arquivo
+├── arena_3/                  # Conteúdos e arquivos relacionados à Arena 3
+│
+└── README.md                 # Descrição do repositório e instruções
